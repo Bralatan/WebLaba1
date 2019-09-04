@@ -1,0 +1,33 @@
+body{
+	background: #c7b39b url(http://www.press.lv/wp-content/uploads/2016/07/25dabf615d1c56026994b66ee4714e9b.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+    color: #fff;
+}
+
+.cl3{
+	text-align: center;
+	color: red;
+}
+
+audio{
+ 	position: relative;
+ 	top: -200px;
+ 	left: 690px;
+}
+
+#id2{
+ 	position: relative;
+ 	top: 100px;
+ 	left: 250px;
+}
+
+.cl2{
+ 	position: absolute;
+ 	top: 0;
+ 	right: 0;
+}
+
+.cl5{
+	color:black;
+}
